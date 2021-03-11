@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GIFMaker</string>
+    <string name="info">GIFMaker v1.0\n\n不需要网络权限.\n不支持屏幕旋转.\n最长录制时间25秒.\n请确保足够的磁盘空间.\n图片路径：/sdcard/Android/data/com.lim.gifmaker.</string>
+    <string name="no_orientation_change">暂不支持屏幕旋转，请重新打开</string>
+    <string name="no_overlay_permission">请求悬浮窗口权限失败</string>
+    <string name="no_projection_permission">请求截屏权限失败</string>
+</resources>

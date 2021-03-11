@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GIFMaker</string>
+    <string name="info">GIFMaker v1.0\n\nIt doesn\'t request Internet permission.\nIt doesn\'t support orientation change.\nMax length is 25 seconds.\nMake sure you have enough space.\nImage path: /sdcard/Android/data/com.lim.gifmaker.</string>
+    <string name="no_orientation_change">Sorry, now we do not support orientation change, please restart.</string>
+    <string name="no_overlay_permission">Failed to request overlay permission.</string>
+    <string name="no_projection_permission">Failed to request media projection permission.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_x_frame">0px</dimen>
+    <dimen name="default_y_frame">0px</dimen>
+    <dimen name="default_height_frame">500px</dimen>
+    <dimen name="button_size">80px</dimen>
+</resources>
